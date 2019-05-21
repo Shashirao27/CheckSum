@@ -1,0 +1,6 @@
+D:\Projects\ConsoleClock\ConsoleClock\CheckSumSHA256\bin\Debug\CheckSumSHA256.exe.config
+D:\Projects\ConsoleClock\ConsoleClock\CheckSumSHA256\bin\Debug\CheckSumSHA256.exe
+D:\Projects\ConsoleClock\ConsoleClock\CheckSumSHA256\bin\Debug\CheckSumSHA256.pdb
+D:\Projects\ConsoleClock\ConsoleClock\CheckSumSHA256\obj\Debug\CheckSumSHA256.exe
+D:\Projects\ConsoleClock\ConsoleClock\CheckSumSHA256\obj\Debug\CheckSumSHA256.pdb
+D:\Projects\ConsoleClock\ConsoleClock\CheckSumSHA256\obj\Debug\CheckSumSHA256.csprojResolveAssemblyReference.cache
